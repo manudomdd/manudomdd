@@ -1,7 +1,7 @@
 ## 👋 ¡Hola! Soy **Manuel Domínguez**
 
 <p align="center">
-👨‍💻 <strong>Desarrollador Full Stack</strong>  
+👨‍💻 <strong>Desarrollador Back End</strong>  
 <br>
 📍 Estudiante del segundo año de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> en el <strong>IES Camas</strong>, Sevilla.
 </p>
@@ -17,7 +17,7 @@
 
 ### Frontend / Multiplataforma
 - 🌐 **HTML/CSS** → Creación de sitios web **estáticos y responsive** con **Visual Studio Code**.  
-- ⚛️ **React** → Desarrollo de interfaces web dinámicas y modernas.  
+- ⚛️ **React Native** → Desarrollo de aplicaciones móviles multiplataforma (Android/iOS).  
 - 🐦 **Flutter** → Desarrollo de aplicaciones multiplataforma (Android/iOS).  
 
 ### Backend / Bases de datos
