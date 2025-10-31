@@ -9,7 +9,6 @@
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120" alt="Coding GIF"/>
 </p>
 
-<h1 align="center">¡Hola! Soy Manuel Domínguez 👋</h1>
 <p align="center">
 🚀 Apasionado por crear aplicaciones que marcan la diferencia ✨  
 </p>
