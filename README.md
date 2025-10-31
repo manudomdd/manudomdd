@@ -2,7 +2,7 @@
 
 # 👨‍💻 MANUEL DOMÍNGUEZ
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Back+End+%F0%9F%92%BB;Estudiante+DAM+%F0%9F%8E%93;IES+Camas%2C+Sevilla+%F0%9F%87%AA%F0%9F%87%B8;Apasionado+por+la+Tecnolog%C3%ADa+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Back+End+%F0%9F%92%BB;Estudiante+DAM+%F0%9F%8E%93;Apasionado+por+la+Tecnolog%C3%ADa+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
