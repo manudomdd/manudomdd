@@ -5,6 +5,20 @@
 <br>
 📍 Estudiante del segundo año de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> en el <strong>IES Camas</strong>, Sevilla.
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120" alt="Coding GIF"/>
+</p>
+
+<h1 align="center">¡Hola! Soy Manuel Domínguez 👋</h1>
+<p align="center">
+🚀 Apasionado por crear aplicaciones que marcan la diferencia ✨  
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-DAM-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BackEnd-Developer-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sevilla-Spain-red?style=for-the-badge" />
+</p>
+
 
 ---
 
