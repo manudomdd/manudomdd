@@ -10,13 +10,20 @@
 
 ## 🚀 Tecnologías que utilizo
 
+### Lenguajes de programación
 - ☕ **Java** → Desarrollo de aplicaciones con **Eclipse**, **NetBeans** e **IntelliJ IDEA**.  
-- 🌐 **HTML/CSS** → Creación de sitios web **estáticos y responsive** con **Visual Studio Code**.  
-- 💊 **JavaScript** → Implementación de **funcionalidades interactivas**, manipulación del **DOM** y uso de **APIs**.  
 - 🐍 **Python** → Desarrollo de scripts, automatización y análisis de datos.  
+- 💊 **JavaScript** → Implementación de **funcionalidades interactivas**, manipulación del **DOM** y uso de **APIs**.  
+
+### Frontend / Multiplataforma
+- 🌐 **HTML/CSS** → Creación de sitios web **estáticos y responsive** con **Visual Studio Code**.  
 - ⚛️ **React** → Desarrollo de interfaces web dinámicas y modernas.  
 - 🐦 **Flutter** → Desarrollo de aplicaciones multiplataforma (Android/iOS).  
+
+### Backend / Bases de datos
 - 🗃️ **MySQL** → Diseño y gestión de **bases de datos relacionales**, creación de **consultas SQL** y operaciones **CRUD**.  
+
+### Control de versiones
 - 🔧 **Git** → Control de versiones y colaboración en proyectos.
 
 ---
@@ -29,7 +36,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" title="HTML5"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/></a>
+  <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" title="CSS3"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/refs/tags/v2.17.0/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" title="JavaScript"/></a>
   &nbsp;&nbsp;&nbsp;
