@@ -6,7 +6,8 @@
 📍 Estudiante del segundo año de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> en el <strong>IES Camas</strong>, Sevilla.
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120" alt="Coding GIF"/>
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
 </p>
 
 <p align="center">
@@ -98,11 +99,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=manudomdd&show_icons=true&theme=radical" height="180" alt="GitHub Stats"/>
 </p>
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=nneji123&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
 
