@@ -16,7 +16,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="55%">
 
 ```javascript
 const Manuel = {
