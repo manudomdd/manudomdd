@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👨‍💻 MANUEL DOMÍNGUEZ 👨‍💻
+# 👨‍💻 MANUEL DOMÍNGUEZ
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Back+End+%F0%9F%92%BB;Estudiante+DAM+%F0%9F%8E%93;Apasionado+por+la+Tecnolog%C3%ADa+%E2%9A%A1" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=header" width="100%"/>
 
 </div>
 
@@ -13,6 +13,10 @@
 <div align="center">
 
 ## 🚀 SOBRE MÍ
+
+</div>
+
+<div align="center">
 
 <table>
 <tr>
@@ -29,9 +33,9 @@ const Manuel = {
 ```
 
 </td>
-<td width="50%">
+<td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
 </td>
 </tr>
@@ -45,28 +49,26 @@ const Manuel = {
 
 ## 💻 LENGUAJES DE PROGRAMACIÓN
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
-
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-<br><strong>Java</strong>
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="70" height="70" />
+<br><br><strong>Java</strong>
 <br><sub>Eclipse, NetBeans, IntelliJ IDEA</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<br><strong>Python</strong>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="70" height="70" />
+<br><br><strong>Python</strong>
 <br><sub>Scripts, Automatización, Análisis</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<br><strong>JavaScript</strong>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="70" height="70" />
+<br><br><strong>JavaScript</strong>
 <br><sub>Funcionalidades interactivas, DOM, APIs</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<br><strong>MySQL</strong>
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="70" height="70" />
+<br><br><strong>MySQL</strong>
 <br><sub>Bases de datos, SQL, CRUD</sub>
 </td>
 </tr>
@@ -80,28 +82,29 @@ const Manuel = {
 
 ## 🎨 DESARROLLO WEB & MÓVIL
 
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"><br>
-<strong>HTML/CSS</strong><br>
-<sub>Sitios web estáticos y responsive</sub><br>
+<br>
+<strong>HTML/CSS</strong><br><br>
+<sub>Sitios web estáticos y responsive</sub><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<br>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80"><br>
-<strong>React Native</strong><br>
-<sub>Apps multiplataforma (Android/iOS)</sub><br>
+<br>
+<strong>React Native</strong><br><br>
+<sub>Apps multiplataforma (Android/iOS)</sub><br><br>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<br>
 </td>
 <td align="center" width="33%">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="80"><br>
-<strong>Flutter</strong><br>
-<sub>Apps multiplataforma (Android/iOS)</sub><br>
+<br>
+<strong>Flutter</strong><br><br>
+<sub>Apps multiplataforma (Android/iOS)</sub><br><br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<br>
 </td>
 </tr>
 </table>
@@ -113,8 +116,6 @@ const Manuel = {
 <div align="center">
 
 ## 🔧 HERRAMIENTAS & ENTORNOS
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
 
 ### Control de Versiones
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -129,7 +130,7 @@ const Manuel = {
 ### DevOps
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,16&height=2" width="100%"/>
 
 </div>
 
@@ -166,13 +167,15 @@ const Manuel = {
 <table>
 <tr>
 <td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100" />
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="90" />
 <br><br>
 <strong>🎓 Desarrollo de Aplicaciones Multiplataforma</strong><br>
 <sub>📍 IES Camas, Sevilla</sub><br>
 <sub>📅 Segundo Año</sub><br>
 <br>
 <img src="https://img.shields.io/badge/Estado-En_Curso-success?style=for-the-badge" />
+<br>
 </td>
 </tr>
 </table>
@@ -185,8 +188,6 @@ const Manuel = {
 
 ## 🌱 EN CONSTANTE APRENDIZAJE
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="400">
-
 ### Siempre explorando nuevas tecnologías y mejores prácticas
 
 <img src="https://img.shields.io/badge/Mejora_Continua-A855F7?style=for-the-badge&logo=&logoColor=white" />
@@ -197,14 +198,9 @@ const Manuel = {
 
 ---
 
-
 <div align="center">
 
 ## 📫 CONTACTO
-
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="100" />
-
-<br>
 
 ### 📧 ¿Tienes un proyecto en mente? ¡Hablemos!
 
@@ -214,6 +210,13 @@ const Manuel = {
 
 <br><br>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer" width="100%"/>
+
+### 💜 Gracias por visitar mi perfil
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%C2%A1Siempre+creando+y+aprendiendo!+%F0%9F%9A%80;Apasionado+por+el+desarrollo+%F0%9F%92%BB" alt="Typing SVG" />
+
+</div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 💜 Gracias por visitar mi perfil
