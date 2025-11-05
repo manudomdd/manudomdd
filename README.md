@@ -206,18 +206,20 @@ const Manuel = {
 
 <br>
 
+<a href="mailto:mandomdie@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/manueljesdominguez" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
 <img src="https://komarev.com/ghpvc/?username=manudomdd&style=for-the-badge&color=blueviolet" />
 
 <br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=footer" width="100%"/>
-
-### 💜 Gracias por visitar mi perfil
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=%C2%A1Siempre+creando+y+aprendiendo!+%F0%9F%9A%80;Apasionado+por+el+desarrollo+%F0%9F%92%BB" alt="Typing SVG" />
-
-</div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ### 💜 Gracias por visitar mi perfil
 
