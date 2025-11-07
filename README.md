@@ -2,8 +2,6 @@
 
 # 👨‍💻 MANUEL DOMÍNGUEZ
 
-<img src="https://raw.githubusercontent.com/manudomdd/manudomdd/main/iconoPerfil.gif" width="200">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Desarrollador+Back+End+%F0%9F%92%BB;Estudiante+DAM+%F0%9F%8E%93;Apasionado+por+la+Tecnolog%C3%ADa+%E2%9A%A1" alt="Typing SVG" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16&height=100&section=header" width="100%"/>
