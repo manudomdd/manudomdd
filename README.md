@@ -20,7 +20,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
 ```javascript
 const Manuel = {
@@ -33,7 +33,7 @@ const Manuel = {
 ```
 
 </td>
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
