@@ -32,6 +32,8 @@ const Manuel = {
 
 <br>
 
+<br>
+
 <div align="center">
 
 ## 💻 STACK TECNOLÓGICO & HERRAMIENTAS
