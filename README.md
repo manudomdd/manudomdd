@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manueljesdominguez)
 [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandomdie@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=manudomdd&style=for-the-badge&color=blueviolet)](https://github.com/manudomdd)
-[![Profile Views](https://komarev.com/ghpvc/?username=manudomdd&style=for-the-badge&color=blueviolet)](https://github.com/manudomdd)
 
 </div>
 
