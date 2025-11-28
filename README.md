@@ -431,8 +431,6 @@ const oportunidades = {
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Gracias+por+visitar+mi+perfil!+%F0%9F%91%8B;Happy+Coding!+%F0%9F%92%BB%E2%9C%A8" alt="Typing SVG" />
-
 <br>
 
 <sub>⭐ Si te gusta mi trabajo, no olvides darle una estrella a mis repositorios ⭐</sub>
