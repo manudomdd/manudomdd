@@ -379,8 +379,6 @@ console.log("¡Listo para nuevos desafíos! 🚀");
 
 ## 📫 CONECTA CONMIGO
 
-<br>
-
 <br><br>
 
 ### 💬 ¿Tienes un proyecto en mente? ¡Hablemos!
