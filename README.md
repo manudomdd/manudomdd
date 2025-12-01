@@ -12,6 +12,8 @@
 
 ---
 
+<div align="center">
+
 ## 🚀 Sobre Mí
 
 Estudiante de **DAM (2º Año)** en IES Camas especializado en desarrollo Back End. Apasionado por crear aplicaciones robustas y escalables que resuelven problemas reales.
@@ -25,7 +27,11 @@ const manuel = {
 };
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💻 Stack Tecnológico
 
@@ -47,11 +53,13 @@ const manuel = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+</div>
+
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
+
+## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=manudomdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manudomdd&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B" width="49%" />
@@ -62,13 +70,17 @@ const manuel = {
 
 ---
 
+<div align="center">
+
 ## 🎯 Áreas de Interés
 
-- 🔧 Arquitectura de software y patrones de diseño
-- ☁️ Cloud Computing y Microservicios
-- 🐳 DevOps y Contenedores
-- 🧪 Testing y Calidad de Código
-- 🔄 API REST y Servicios Web
+🔧 Arquitectura de software y patrones de diseño  
+☁️ Cloud Computing y Microservicios  
+🐳 DevOps y Contenedores  
+🧪 Testing y Calidad de Código  
+🔄 API REST y Servicios Web
+
+</div>
 
 ---
 
