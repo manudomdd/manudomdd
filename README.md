@@ -1,5 +1,5 @@
 <div align="center">
-d
+
 # 👨‍💻 Manuel Domínguez
 
 ### Desarrollador Back End | Estudiante DAM | Sevilla 🇪🇸
