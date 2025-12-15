@@ -29,9 +29,9 @@ Focused on building robust, scalable applications with clean code and solid arch
 
 ## 💻 Tech Stack
 
-<table>
+<table style="border: none;">
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="border: none;">
 
 ### Languages
 
@@ -40,7 +40,7 @@ Focused on building robust, scalable applications with clean code and solid arch
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" style="border: none;">
 
 ### Databases
 
@@ -50,7 +50,7 @@ Focused on building robust, scalable applications with clean code and solid arch
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="border: none;">
 
 ### Frameworks
 
@@ -58,7 +58,7 @@ Focused on building robust, scalable applications with clean code and solid arch
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" style="border: none;">
 
 ### DevOps
 
