@@ -2,7 +2,7 @@
 
 # 👨‍💻 Manuel Domínguez
 
-### Desarrollador Back End | Estudiante DAM | Sevilla 🇪🇸
+### Back End Developer | DAM Student | Seville 🇪🇸
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manueljesdominguez)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandomdie@gmail.com)
@@ -14,18 +14,12 @@
 
 <div align="center">
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Estudiante de **DAM (2º Año)** en IES Camas especializado en desarrollo Back End. Apasionado por crear aplicaciones robustas y escalables que resuelven problemas reales.
+**Second-year DAM student** at IES Camas specializing in **Back End Development**  
+Focused on building robust, scalable applications with clean code and solid architecture
 
-```javascript
-const manuel = {
-    ubicación: "Sevilla, España",
-    educación: "Desarrollo de Aplicaciones Multiplataforma",
-    especialización: "Back End Development",
-    enfoque: "Código limpio, arquitectura sólida y mejora continua"
-};
-```
+> *"Passionate about solving real-world problems through efficient and maintainable software solutions"*
 
 </div>
 
@@ -33,9 +27,9 @@ const manuel = {
 
 <div align="center">
 
-## 💻 Stack Tecnológico
+## 💻 Tech Stack
 
-### Lenguajes & Frameworks
+### Languages & Frameworks
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -44,14 +38,14 @@ const manuel = {
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Desarrollo Web & Móvil
+### Web & Mobile Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-### Herramientas & DevOps
+### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -74,21 +68,21 @@ const manuel = {
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
 <div align="center">
 
-**¿Tienes un proyecto o quieres colaborar?**
+**Let's connect and build something amazing together!**
 
 📧 **Email:** mandomdie@gmail.com  
-💼 **LinkedIn:** [/manueljesdominguez](https://www.linkedin.com/in/manueljesdominguez)
+💼 **LinkedIn:** [linkedin.com/in/manueljesdominguez](https://www.linkedin.com/in/manueljesdominguez)
 
 <br>
 
-*Siempre abierto a nuevas oportunidades y colaboraciones* ✨
+*Open to internships, collaborations, and back-end development opportunities* ✨
 
 ---
 
-⭐ **Si te gusta mi trabajo, no olvides dar una estrella a mis repos** ⭐
+💡 *Feel free to explore my repositories and reach out for any questions or opportunities*
 
 </div>
