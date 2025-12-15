@@ -54,9 +54,8 @@ const manuel = {
 ### Herramientas & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 </div>
 
@@ -70,20 +69,6 @@ const manuel = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=manudomdd&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manudomdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="49%" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🎯 Áreas de Interés
-
-🔧 Arquitectura de software y patrones de diseño  
-☁️ Cloud Computing y Microservicios  
-🐳 DevOps y Contenedores  
-🧪 Testing y Calidad de Código  
-🔄 API REST y Servicios Web
 
 </div>
 
