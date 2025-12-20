@@ -1,5 +1,5 @@
 <div align="center">
-k
+
 # 👨‍💻 Manuel Domínguez
 
 ### Back End Developer | DAM Student | Seville 🇪🇸
