@@ -43,18 +43,6 @@ Focused on building robust, scalable applications with clean code and solid arch
 
 ---
 
-<div align="center">
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=manudomdd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manudomdd&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manudomdd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7" width="49%" />
-
-</div>
-
----
 
 ## 📫 Contact
 
