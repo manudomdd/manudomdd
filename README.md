@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Manuel Domíngue
+# 👨‍💻 Manuel Domínguez
 
 ### Back End Developer | DAM Student | Seville 🇪🇸
 
