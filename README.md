@@ -51,7 +51,7 @@ Focused on building robust, scalable applications with clean code and solid arch
 **Let's connect and build something amazing together!**
 
 📧 **Email:** mandomdie@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/manueljesdominguez](https://www.linkedin.com/in/manuel-dominguez-dev/)
+💼 **LinkedIn:** [linkedin.com/in/manuel-dominguez-dev](https://www.linkedin.com/in/manuel-dominguez-dev/)
 
 <br>
 
