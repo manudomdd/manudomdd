@@ -4,7 +4,7 @@
 
 ### Back End Developer | DAM Student | Seville 🇪🇸
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manueljesdominguez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-dominguez-dev/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mandomdie@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=manudomdd&style=for-the-badge&color=blueviolet)](https://github.com/manudomdd)
 
